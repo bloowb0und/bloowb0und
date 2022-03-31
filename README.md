@@ -5,8 +5,6 @@
 
 - 📫 How to reach me: **bloowboundbusiness@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/kirill-bluvband/](https://www.linkedin.com/in/kirill-bluvband/)
-
 - ⚡ Fun fact: **There's nothing better than pizza**
 
 <h3 align="left">Connect with me:</h3>
