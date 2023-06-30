@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirill Bluvband :bowtie:</h1>
-<h3 align="center">Junior Fullstack .NET Developer from Ukraine</h3>
+<h3 align="center">Full Stack Software Engineer from Ukraine</h3>
 
-- 🌱 I’m currently learning **React, .NET Core, ASP.NET**
+- 🌱 I’m currently learning **Next.js, Nest.js, Redis**
 
-- 📫 How to reach me: **bloowboundbusiness@gmail.com**
+- 📫 How to reach me: **bluvband@proton.me**
 
 - ⚡ Fun fact: **There's nothing better than pizza**
 
