@@ -13,3 +13,9 @@ Lead <i>Full Stack</i> Software Engineer at <a href="https://futurix.solutions/"
 🎯 I will bring your idea to life in the shortest period and the best quality, finding innovative solutions to complex problems.
 
 <h4>📫 Reach out to me directly: <a href="mailto:bluvband@proton.me" target="blank">bluvband@proton.me</a></h4>
+
+<p align="center">
+<a href="https://futurix.solutions/">
+<img style="width: 40%;height: 40%;display: block;margin-left: auto;margin-right: auto;" src="https://github.com/user-attachments/assets/8453e1bd-d421-45be-b03e-0e058c66ea35" />
+</a>
+</p>
