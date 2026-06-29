@@ -1,14 +1,14 @@
 <h1 align="center">
-<img align="center" src="https://futurix.solutions/_next/static/media/logo-small.fbc43e61.svg" alt="futurix solutions" height="30" width="40" /> Kirill Bluvband <img align="center" src="https://futurix.solutions/_next/static/media/logo-small.fbc43e61.svg" alt="futurix solutions" height="30" width="40" />
+<img align="center" src="https://futurix.solutions/img/logo-small.svg" alt="futurix solutions" height="30" width="40" /> Kirill Bluvband <img align="center" src="https://futurix.solutions/img/logo-small.svg" alt="futurix solutions" height="30" width="40" />
 <br/>
-Lead <i>Full Stack</i> Software Engineer at <a href="https://futurix.solutions/" target="blank">FuturiX Solutions</a>
+Head of <i>Engineering</i> at <a href="https://futurix.solutions/" target="blank">FuturiX Solutions</a>
 </h1>
 
 <h3>🌐 <a href="https://futurix.solutions/" target="blank">https://futurix.solutions/</a></h3>
 
-⭐ In my current position, I lead <b>a team of experts</b> in <u>Software Engineering</u>, <u>Architecture</u>, and <u>DevOps</u> who are always prepared to provide <i>customized full-cycle solutions</i> of any complexity.
+⭐ In my current position, I lead <b>a team of experts</b> in <u>Software Engineering</u>, <u>Architecture</u>, <u>DevOps</u>, <u>QA</u> and <u>PM</u> who are always prepared to provide <i>customized full-cycle solutions</i> of any complexity.
 
-5️⃣+ years of professional experience in <u>Software Engineering</u> on large and complex projects, including <u><b>Fortune 500 leaders</b></u> in <b>highly</b> regulated industries (<i>ESG Performance</i> and <i>Gambling</i>).
+5️⃣+ years of professional experience in <u>Software Engineering</u> on large and complex projects, including <u><b>Fortune 500 leaders</b></u> in <b>highly</b> regulated industries (<i>ESG Performance</i> and <i>iGaming</i>).
 
 🎯 I will bring your idea to life in the shortest period and the best quality, finding innovative solutions to complex problems.
 
